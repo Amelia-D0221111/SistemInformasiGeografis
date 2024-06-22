@@ -2,4 +2,5 @@
 - NAMA  : AMELIA
 - NIM   : D0221111
 - KELAS : INFORMATIKA A
+# DEMO
 https://Amelia-D0221111.github.io/SistemInformasiGeografis
